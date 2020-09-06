@@ -1,19 +1,36 @@
-<div >
-<div>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=anamontiaga&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-   </div>
- 
- <div align="center" margin-top="40">
+<p>
 
-  <a href="https://t.me/anamontiaga" alt="Telegram"><img src="https://github.com/anamontiaga/anamontiaga/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/anamontiaga/" alt="Linkedin"><img src="https://github.com/anamontiaga/anamontiaga/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-       <a href="https://medium.com/@amontiaga" alt="Medium"><img src="https://github.com/anamontiaga/anamontiaga/blob/master/medium.png" height="30" width="30"></a>&nbsp;
-  <a href="https://gitlab.com/anamontiaga" alt="Gitlab"><img src="https://github.com/anamontiaga/anamontiaga/blob/master/gitlab.png" height="30" width="30"></a>&nbsp;
-      <a href="https://twitter.com/AMontiaga" alt="Twitter"><img src="https://github.com/anamontiaga/anamontiaga/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=anamontiaga&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+
+ 
+<p align="center"> 
+  
+  <a href="https://t.me/anamontiaga">
+  <img align="left" alt="Ana Montiaga´s Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+  
+   <a href="https://www.linkedin.com/in/anamontiaga">
+  <img align="left" alt="Ana Montiaga´s Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://medium.com/@amontiaga">
+  <img align="left" alt="Ana Montiaga´s Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://twitter.com/AMontiaga">
+  <img align="left" alt="Ana Montiaga´s Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://gitlab.com/anamontiaga">
+  <img align="left" alt="Ashwani's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
+
+<br/>
+<br/>
+
+
     
-    
-   </div>
-</div>
+   </p>
+</p>
 
 
 **Languages and Tools:**  
