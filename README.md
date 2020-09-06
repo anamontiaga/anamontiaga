@@ -2,7 +2,7 @@
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=anamontiaga&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   
  
-   <p align="center">
+   <p align="center" margin-top="40">
   <a href="https://t.me/anamontiaga" alt="Telegram"><img src="https://github.com/anamontiaga/anamontiaga/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
   <a href="https://www.linkedin.com/in/anamontiaga/" alt="Linkedin"><img src="https://github.com/anamontiaga/anamontiaga/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
        <a href="https://medium.com/@amontiaga" alt="Medium"><img src="https://github.com/anamontiaga/anamontiaga/blob/master/medium.png" height="30" width="30"></a>&nbsp;
@@ -12,11 +12,7 @@
     
   </p>
 
-### About
--  **Working :** Mobile-App & Web Development :iphone: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: 
--  **Hobbies :** Books :books: | Music :headphones: | Astrology
--  **Ask me about :** Anything!, I'm happy to help :v:
+
 
 **Languages and Tools:**  
 
