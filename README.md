@@ -1,5 +1,13 @@
-### Hi there 👋
+## Ana Montiaga 👨‍💻
+[![Twitter Badge](https://img.shields.io/badge/-AMontiaga-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AMontiaga)](https://twitter.com/AMontiaga) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ana_Montiaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anamontiaga/)](https://www.linkedin.com/in/anamontiaga/) 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+-  **Working :** Mobile-App & Web Development :iphone: | Cloud :cloud: 
+-  **Learning :** Full-Stack :zap: 
+-  **Hobbies :** Books :books: | Music :headphones: | Astrology
+-  **Ask me about :** Anything!, I'm happy to help :v:
 
 **Languages and Tools:**  
 
