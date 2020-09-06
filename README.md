@@ -9,13 +9,13 @@
 <h2 align="center">
 
 **Contact me on** 
+
 <a href="https://t.me/anamontiaga">
   <img align="left" alt="Ana Montiaga´s Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anamontiaga">
   <img align="left" alt="Ana Montiaga´s Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://medium.com/@amontiaga">
   <img align="left" alt="Ana Montiaga´s Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -25,7 +25,6 @@
 <a href="https://gitlab.com/anamontiaga">
   <img align="left" alt="Ashwani's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-
 </h2>
 
 
